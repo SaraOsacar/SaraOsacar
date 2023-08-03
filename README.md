@@ -1,4 +1,4 @@
-# Front-end Developer ⚡︎💻
+## Front-end Developer ⚡︎💻
 
 ### Hi! I'm Sara 👋
 
