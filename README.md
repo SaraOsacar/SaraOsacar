@@ -11,15 +11,15 @@
 • 📩 Email: saraosacar@gmail.com<br>
 
 ## Technical Skills
-• HTML5 (HyperText MarkUp Language).<br>
-• CSS3, SASS (Responsive Design, Flexbox, CSS Grid, Transitions, Relative & Absolute position).<br>
-• JavaScript (Functions, Events, Objects, Conditionals, Arrays, Loops, Local Storage).<br>
-• React (SPA, Components, Props & Proptypes, React-router-dom, Lifting, State Variables, libraries).<br>
-• Node JS - Express JS - SQL (REST API, Databases).<br>
-• Gulp (Task Automation).<br>
-• Git (version control).<br>
-• Development tools: Visual Studio Code, Zeplin.<br>
-• Slack - Agile - Scrum (communication skills & team work).<br>
+• <strong>HTML5</strong> (HyperText MarkUp Language).<br>
+• <strong>CSS3, SASS</strong> (Responsive Design, Flexbox, CSS Grid, Transitions, Relative & Absolute position).<br>
+• <strong>JavaScript</strong> (Functions, Events, Objects, Conditionals, Arrays, Loops, Local Storage).<br>
+• <strong>React</strong> (SPA, Components, Props & Proptypes, React-router-dom, Lifting, State Variables, libraries).<br>
+• <strong>Node JS - Express JS - SQL</strong> (REST API, Databases).<br>
+• <strong>Gulp</strong> (Task Automation).<br>
+• <strong>Git</strong> (version control).<br>
+• Development tools: <strong>Visual Studio Code, Zeplin</strong>.<br>
+• <strong>Slack - Agile - Scrum</strong> (communication skills & team work).<br>
 
 ## Technologies
 
