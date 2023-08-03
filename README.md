@@ -1,11 +1,12 @@
 <h1 align="center">Front-end Developer ⚡︎💻</h1>
 
-#### 👋 Hi! I'm Sara, culture manager and producer now immersed in the world of development and programming.
+#### 👋 Hi! I'm Sara, a culture manager and producer converted into a programmer and now immersed in the world of development. 
 
 • 🎉 I've just finished a Front-end Development Bootcamp in Adalab.<br>
 • 🚀 I'm looking for a job to gain experience and continue learning.<br>
 • 🌱 I’m reinforcing and expanding my knowledge of Javascript, React, and Node JS.<br>
 • 👀 I'm very curious and thoroughly enjoy reading and discovering new things constantly.<br>
+• 🌎 I lived in 3 different countries. After 15 years working in culture, I changed my career to web developer. Always willing to keep learning.<br>
 • 📫 How to reach me [Check my LinkedIn](https://www.linkedin.com/in/saraosacar).<br>
 • 📩 Email: saraosacar@gmail.com<br>
 
