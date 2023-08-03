@@ -6,7 +6,7 @@
 • 🚀 I'm looking for a job to gain experience and continue learning.<br>
 • 🌱 I’m reinforcing and expanding my knowledge of Javascript, React, and Node JS.<br>
 • 👀 I'm very curious and thoroughly enjoy reading and discovering new things constantly.<br>
-• 🌎 I lived in 3 different countries. After 15 years working in culture, I changed my career to web developer. Always willing to keep learning.<br>
+• 🌎 I lived in 3 different countries and I changed my career to web developer. Always willing to keep learning.<br>
 • 📫 How to reach me [Check my LinkedIn](https://www.linkedin.com/in/saraosacar).<br>
 • 📩 Email: saraosacar@gmail.com<br>
 
