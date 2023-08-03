@@ -1,6 +1,6 @@
 <h1 align="center">Front-end Developer ⚡︎💻</h1>
 
-### Hi! I'm Sara 👋
+#### 👋 Hi! I'm Sara, culture manager and producer now immersed in the world of development and programming.
 
 • 🎉 I've just finished a Front-end Development Bootcamp in Adalab.<br>
 • 🚀 I'm looking for a job to gain experience and continue learning.<br>
