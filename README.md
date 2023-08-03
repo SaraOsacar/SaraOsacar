@@ -1,4 +1,4 @@
-<h1 align="center">Front-end Developer ⚡︎💻</h1>
+## Front-end Developer ⚡︎💻
 
 #### 👋 Hi! I'm Sara, a culture manager and producer converted into a programmer and now immersed in the world of development. 
 
