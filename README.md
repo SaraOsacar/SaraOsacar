@@ -9,7 +9,7 @@
 • 📫 How to reach me [Check my LinkedIn](https://www.linkedin.com/in/saraosacar).<br>
 • 📩 Email: saraosacar@gmail.com<br>
 
-### Technical Skills
+## Technical Skills
 • HTML5 (HyperText MarkUp Language).<br>
 • CSS3, SASS (Responsive Design, Flexbox, CSS Grid, Transitions, Relative & Absolute position).<br>
 • JavaScript (Functions, Events, Objects, Conditionals, Arrays, Loops, Local Storage).<br>
@@ -20,7 +20,7 @@
 • Development tools: Visual Studio Code, Zeplin.<br>
 • Slack - Agile - Scrum (communication skills & team work).<br>
 
-### Technologies
+## Technologies
 
 <h4 align="left">Technologies:</h4>
 <p align="left">
