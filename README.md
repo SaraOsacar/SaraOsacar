@@ -8,7 +8,7 @@
 • 👀 I'm very curious and thoroughly enjoy reading and discovering new things constantly.<br>
 • 🌎 I lived in 3 different countries and I changed my career to web developer. Always willing to keep learning.<br>
 • 📫 How to reach me [Check my LinkedIn](https://www.linkedin.com/in/saraosacar).<br>
-• 📩 Email: saraosacar@gmail.com<br>
+• 📩 Contact: saraosacar@gmail.com<br>
 
 ## Technical Skills
 • <strong>HTML5</strong> (HyperText MarkUp Language).<br>
