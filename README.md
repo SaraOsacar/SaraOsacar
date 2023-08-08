@@ -1,6 +1,9 @@
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=5013&color=342AB8&center=true&lines=Hi+there+👋;I'm+Sara+🤝,;Fronted+Developer+⚡.">
+  </a></h2></a>
+
 ## Front-end Developer ⚡︎💻
 
-#### 👋 Hi! I'm Sara, a culture manager and producer converted into a programmer and now immersed in the world of development. 
+####  💾 I've transitioned from an extensive career in cultural management and production to becoming a passionate front-end developer. My creative flair and tech fascination led me to pivot towards coding.
 
 • 🎉 I've just finished a Front-end Development Bootcamp in Adalab.<br>
 • 🚀 I'm looking for a job to gain experience and continue learning.<br>
