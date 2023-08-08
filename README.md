@@ -21,9 +21,9 @@
 • Development tools: <strong>Visual Studio Code, Zeplin</strong>.<br>
 • <strong>Slack - Agile - Scrum</strong> (communication skills & team work).<br>
 
-## Technologies
 
-<h4 align="left">Technologies:</h4>
+
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
