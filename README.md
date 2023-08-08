@@ -10,8 +10,11 @@
 • 🌱 I’m reinforcing and expanding my knowledge of Javascript, React, and Node JS.<br>
 • 👀 I'm very curious and thoroughly enjoy reading and discovering new things constantly.<br>
 • 🌎 I lived in 3 different countries and I changed my career to web developer. Always willing to keep learning.<br>
-• 📫 How to reach me [Check my LinkedIn](https://www.linkedin.com/in/saraosacar).<br>
-• 📩 Contact: saraosacar@gmail.com<br>
+
+### Let's get in touch:
+
+<a href="https://www.linkedin.com/in/saraosacar/"><img img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:saraosacar@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## Technical Skills
 • <strong>HTML5</strong> (HyperText MarkUp Language).<br>
