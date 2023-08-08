@@ -3,7 +3,7 @@
 
 ## Front-end Developer ⚡︎💻
 
-####  💾 I've transitioned from an extensive career in cultural management and production to becoming a passionate front-end developer. My creative flair and tech fascination led me to pivot towards coding.
+####  💾 I've transitioned from an extensive career in cultural management and production to becoming a passionate Front-end developer. My creative flair and tech fascination led me to pivot towards coding.
 
 • 🎉 I've just finished a Front-end Development Bootcamp in Adalab.<br>
 • 🚀 I'm looking for a job to gain experience and continue learning.<br>
