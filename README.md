@@ -1,7 +1,7 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=5013&color=342AB8&center=true&lines=Hi+there+👋;I'm+Sara+🤝,;Fronted+Developer+⚡.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=5013&color=342AB8&center=true&lines=Hi+there+👋;I'm+Sara+🤝,;Frontend+Developer+⚡.">
   </a></h2></a>
 
-## Front-end Developer ⚡︎💻
+## Frontend Developer ⚡︎💻
 
 ####  💾 I've transitioned from an extensive career in cultural management and production to becoming a passionate Front-end developer. My creative flair and tech fascination led me to pivot towards coding.
 
