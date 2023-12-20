@@ -6,7 +6,7 @@
 ####  💾 I've transitioned from an extensive career in cultural management and production to becoming a passionate Frontend developer. My creative flair and tech fascination led me to pivot towards coding.
 
 • 🎉 I've just finished a Frontend Development Bootcamp in Adalab.<br>
-• 🚀 I'm looking for a job to gain experience and continue learning.<br>
+• 🚀 I'm always in search of gaining experience and continuing to learn.<br>
 • 🌱 I’m reinforcing and expanding my knowledge of Javascript, React, and Node JS.<br>
 • 👀 I'm very curious and thoroughly enjoy reading and discovering new things constantly.<br>
 • 🌎 I lived in 3 different countries and I changed my career to web developer. Always willing to keep learning.<br>
